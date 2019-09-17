@@ -10,4 +10,5 @@
  */
 public class Coucou {
     //c'est trop cooleuuuh
+    string oui="oui";
 }
