@@ -9,6 +9,6 @@
  * @author pedago
  */
 public class Coucou {
-    //c'est trop cooleuuuh ||PTDR T KI
-    String non="non";
+    //c'est trop cooleuuuh
+    String oui="oui";
 }
